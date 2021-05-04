@@ -1,4 +1,4 @@
-;;; pilot-doc.el - write the current buffer out to a PalmOS device as a doc formated file.
+;;; pilot-doc.el --- Write the current buffer out to a PalmOS device as a doc formated file
 ;;
 ;; Copyright (C) 2000 Daryn Hanright
 ;; http://www.planetnz.com/palmheads/myhacks.php
